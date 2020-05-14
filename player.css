@@ -1,0 +1,46 @@
+    .sidebar-container{
+        position: relative;
+        z-index: 2;
+    }
+    .fa{
+        color: white;
+    }
+    .fa-apple{
+        color: white;
+    }
+    .ic-desktop{
+        color: #212529;
+    }
+    .fa-info-circle{
+        color: #155724!important;
+    }
+    .btn-primary{
+        color: #ffff!important;
+    }
+    .team1{
+        box-sizing: border-box;
+        background-image: url(
+            https://iraffle.me/equipos/laliga/alaves.png
+        
+        );
+        background-repeat: no-repeat;
+        background-size: 50px;
+        width: 50px;
+    }
+    .team2{
+        box-sizing: border-box;
+        background-image: url(
+            https://iraffle.me/equipos/laliga/valencia.png
+        
+        );
+        background-repeat: no-repeat;
+        background-size: 50px;
+        width: 50px;
+    }
+    .team-alt{
+        width: 45px;
+    }
+    .fa-futbol{
+        padding-left: 3px;
+        padding-right: 3px;
+    }
