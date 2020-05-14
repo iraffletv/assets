@@ -1,0 +1,288 @@
+.team{
+           width: 20px;
+       }
+       .competicion{
+           width: 45%;
+           height: auto;
+           display: block;
+           margin: auto;
+           background: none;
+       }
+       .live{
+           position: relative;
+           background-image: url(https://i.pinimg.com/originals/57/2a/f2/572af27a755f497c9e6f5516969dbc80.gif);
+           background-size: 45%;
+           background-repeat: no-repeat;
+           margin-top: 20px;
+           margin-right: -15px;
+           margin-left: -50px;
+           overflow: hidden;
+       }
+       .fa-circle{
+           position: relative!important;
+           color: red!important;
+           margin-right: 5px!important;
+           margin-left: -20px!important;
+           margin-top: 15px!important;
+           z-index: 1!important;
+        }
+       .fa-crown{
+           color: #E5A65E;
+           position: relative;
+           margin-right: 5px!important;
+           margin-left: 5px!important;
+           margin-top: 15px!important;
+           z-index: 1!important;
+       }
+       .fa-exclamation-triangle{
+
+           position: relative!important;
+           color: red!important;
+           margin-right: 5px!important;
+           margin-left: -20px!important;
+           margin-top: 15px!important;
+           z-index: 1!important;
+           
+       }
+       .td{
+           margin-top: 20px!important;
+       }
+       #demo1, #demo2,  #demo3,  #demo4,  #demo5,  #demo6,  #demo7,  #demo8,  #demo9,  #demo10,  #demo11,  #demo12,  #demo13,  #demo14,  #demo15 {
+        margin-left: -20px;
+       }
+       .col{
+           display: block!important;
+           margin: auto!important;
+       }
+       
+       
+       .btn-secondary{
+        color: black!important;
+        background-color:white!important;
+        border-color:white!important;
+        position: absolute;
+        margin-left: -10px!important;   
+       }
+       
+       .btn-secondary:hover
+       {
+        color:#fff;
+        background-color:white!important;
+        border-color:white!important;
+       }
+       .btn-secondary.focus,.btn-secondary:focus
+       {
+        color:#fff;
+        background-color:#5a6268;
+        border-color:#545b62;
+        box-shadow:0 0 0 .2rem rgba(130,138,145,.5)
+       }
+       .btn-secondary.disabled,.btn-secondary:disabled
+       {
+        color:#fff;
+        background-color:#6c757d;
+        border-color:#6c757d
+       }
+       .btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle
+       {
+        color:#fff;
+        background-color:#545b62;
+        border-color:#4e555b
+       }
+       .btn-secondary:not(:disabled):not(.disabled).active:focus,.btn-secondary:not(:disabled):not(.disabled):active:focus,.show>.btn-secondary.dropdown-toggle:focus
+       {
+        box-shadow:0 0 0 .2rem rgba(130,138,145,.5)
+       }
+       
+       .team1{
+        box-sizing: border-box;
+        background-image: url(
+            https://iraffle.me/equipos/ligamx/tijuana.png
+        
+        );
+        background-repeat: no-repeat;
+        background-size: 50px;
+        width: 50px;
+    }
+       
+       .bundesliga{
+           background-image: url(https://iraffle.me/ligas/bundesliga.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .champions{
+           background-image: url(https://iraffle.me/ligas/ucl.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .copadelrey{
+           background-image: url(https://iraffle.me/ligas/copadelrey.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .copamx{
+           background-image: url(https://iraffle.me/ligas/copamx.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .coupedelaligue{
+           background-image: url(https://iraffle.me/ligas/coupedelaligue.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .coppaitalia{
+           background-image: url(https://iraffle.me/ligas/coppaitalia.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .europa{
+           background-image: url(https://iraffle.me/ligas/europa.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .laliga{
+           background-image: url(https://iraffle.me/ligas/laliga.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .laliga2{
+           background-image: url(https://iraffle.me/ligas/laliga2.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .premier{
+           background-image: url(https://iraffle.me/ligas/premier.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .seriea{
+           background-image: url(https://iraffle.me/ligas/seriea.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+        .ligue1{
+           background-image: url(https://iraffle.me/ligas/ligue1.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .ligamx{
+           background-image: url(https://iraffle.me/ligas/ligamx.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .tacadaliga{
+           background-image: url(https://iraffle.me/ligas/tacadaliga.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .premierca{
+           background-image: url(https://iraffle.me/ligas/premierca.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .nba{
+           background-image: url(https://iraffle.me/ligas/nba.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .australianopen{
+           background-image: url(https://iraffle.me/ligas/australianopen.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .facup{
+           background-image: url(https://iraffle.me/ligas/facup.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .superliga{
+           background-image: url(https://iraffle.me/ligas/superliga.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .liganacional{
+           background-image: url(https://iraffle.me/ligas/liganacional.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+              
+       .efl{
+           background-image: url(https://iraffle.me/ligas/efl.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .coupe{
+           background-image: url(https://iraffle.me/ligas/coupe.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .euroliga{
+           background-image: url(https://cdn.scores24.ru/upload/tournament/w90-h90/785/d99/4f93144322a66d11d9e15e195f975c82f6.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .ligatica{
+           background-image: url(https://iraffle.me/ligas/ligatica.png);
+           background-size: 80%;
+           background-repeat: no-repeat;
+       }
+       
+       .libertadores{
+           background-image: url(https://iraffle.me/ligas/libertadores.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .copasudamericana{
+           background-image: url(https://iraffle.me/ligas/copasudamericana.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .concachampions{
+           background-image: url(https://iraffle.me/ligas/ccl.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       
+       .primeira{
+           background-image: url(https://iraffle.me/ligas/primeiraliga.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       
+       .otro{
+           background-image: url(https://iraffle.me/ligas/otro.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
+       
+       .otro{
+           background-image: url(https://iraffle.me/ligas/otro.png);
+           background-size: 100%;
+           background-repeat: no-repeat;
+       }
